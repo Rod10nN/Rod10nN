@@ -1,16 +1,39 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**Rod10nN/Rod10nN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - Бакалавриат УГНТУ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 💡 Основные компетенции 💡
+- Инструменты: Python
+
+
+### ⚡️ В настоящее время ⚡️
+- Учусь в университете
+
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](https://t.me/R0d10)
+
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - Undergraduate USPTU
+
+### 💡 Core competencies 💡
+- Tools: Python
+
+
+
+### ⚡️ Currently ⚡️
+- Learning in University
+
+### 🙌🏻 Contact me
+- [Telegram](https://t.me/R0d10)
