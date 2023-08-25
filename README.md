@@ -8,7 +8,7 @@
 
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python
+- Инструменты: Python, SQL
 
 
 ### ⚡️ В настоящее время ⚡️
@@ -28,7 +28,7 @@
  - Undergraduate USPTU
 
 ### 💡 Core competencies 💡
-- Tools: Python
+- Tools: Python, SQL
 
 
 
