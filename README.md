@@ -34,5 +34,4 @@
 ### ⚡️ Currently ⚡️
 - Learning in University
 
-### 🙌🏻 Contact me
-- [Telegram](https://t.me/R0d10)
+
